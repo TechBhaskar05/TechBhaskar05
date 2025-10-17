@@ -23,6 +23,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -49,6 +50,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
+---
 
 ### 💻 Projects:
 
@@ -92,6 +94,14 @@ A secure, intelligent wellness app that ensures medication adherence with smart 
 
 ---
 
+### 📊 GitHub Stats:
+
+![Pratyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechBhaskar05&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TechBhaskar05&theme=gotham)](https://git.io/streak-stats)
+<img src="https://github-profile-trophy.vercel.app/?username=TechBhaskar05&theme=juicyfresh&no-bg=true" />
+
+---
+
 ### 🌐 Let's Connect:
 
 <p align="left">
@@ -102,31 +112,3 @@ A secure, intelligent wellness app that ensures medication adherence with smart 
 </p>
 
 ---
-
-### 📊 GitHub Stats:
-
-![Pratyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechBhaskar05&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=TechBhaskar05&theme=gotham)](https://git.io/streak-stats)
-<img src="https://github-profile-trophy.vercel.app/?username=TechBhaskar05&theme=juicyfresh&no-bg=true" />
-
----
-
-### 🧰 Tools & Technologies:
-
-**Programming Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) 
-![DaisyUI](https://img.shields.io/badge/DaisyUI-FF69B4?style=for-the-badge&logo=daisyui&logoColor=white) 
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-
-
- 
