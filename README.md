@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratyush Bhaskar</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70D73&width=600&lines=Hi+👋,+I'm+Pratyush+Bhaskar)](https://git.io/typing-svg)
 <h3 align="center">B.Tech CSE | Full-Stack Developer | Machine Learning Enthusiast</h3>
 
 <p align="center">
@@ -15,7 +15,8 @@
 ### 📌 Achievements:
 
 - 🔹 Codeforces: **Rating 950**  
-- 🔹 Top 10 at **DevJam 2025** with **Assignify** – a task management platform for students  
+- 🔹 Top 10 at **DevJam 2025** with **Assignify** – a task management platform for students
+- 🔹 Finalist, Robosoccer – MNNIT Robotics Competition
 
 ---
 
@@ -109,6 +110,12 @@ A secure, intelligent wellness app that ensures medication adherence with smart 
   <a href="https://github.com/TechBhaskar05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/pratyush.bhaskar08"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="mailto:pratyush.bhaskar08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/pratyush_bhaskar08/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
+
 ---
+
+<div align="center">
+  <strong>Thanks for visiting my profile! Have a great day! 🌟</strong>
+</div>
