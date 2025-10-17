@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=TechBhaskar05&color=green" alt="pratyush-bhaskar" />
 </p>
 
-- 🔭 I’m currently working on **Alchemist’s Grand Grimoire** and **Assignify**
+- 🔭 Working on expanding my skills in full-stack development and AI, building innovative web applications along the way.
 - 🌱 Exploring **Machine Learning** and **AI Integration**
 - ⚡ Fun fact: I enjoy **problem-solving**, **AI-driven development**, and **clean code architecture**
 - 📫 Reach me at: **pratyush.bhaskar08@gmail.com**
